@@ -1,2 +1,2 @@
-# IoT-RED-team
+# IoT-BLUE-TEAM
 For summer internship
