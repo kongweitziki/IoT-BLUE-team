@@ -1,2 +1,2 @@
 # IoT-BLUE-TEAM
-For summer internship
+repository for summer internship
